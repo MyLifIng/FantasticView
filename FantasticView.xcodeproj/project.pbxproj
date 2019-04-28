@@ -56,13 +56,13 @@
 		E9D17E33227576FB0065392F /* FantasticView */ = {
 			isa = PBXGroup;
 			children = (
+				E9D17E46227577590065392F /* FantasticView.swift */,
 				E9D17E34227576FB0065392F /* AppDelegate.swift */,
 				E9D17E36227576FB0065392F /* ViewController.swift */,
 				E9D17E38227576FB0065392F /* Main.storyboard */,
 				E9D17E3B227576FC0065392F /* Assets.xcassets */,
 				E9D17E3D227576FC0065392F /* LaunchScreen.storyboard */,
 				E9D17E40227576FC0065392F /* Info.plist */,
-				E9D17E46227577590065392F /* FantasticView.swift */,
 			);
 			path = FantasticView;
 			sourceTree = "<group>";
