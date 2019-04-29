@@ -13,7 +13,7 @@ public class FantasticView: UIView {
     let colors:[UIColor] = [.red, .orange, .yellow, .green, .blue, .purple]
     var colorCounter = 0
     
-    override init(frame: CGRect) {
+    public override init(frame: CGRect) {
         super.init(frame: frame)
         
         // 核心部分
@@ -29,7 +29,7 @@ public class FantasticView: UIView {
         
     }
     
-    required init?(coder aDecoder: NSCoder) {
+    public required init?(coder aDecoder: NSCoder) {
         super.init(coder: aDecoder)
         
         // 你不需要实现这部分
