@@ -37,9 +37,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E976C3DD2276A07500208754 /* OpenFile */ = {
+			isa = PBXGroup;
+			children = (
+				E9D17E46227577590065392F /* FantasticView.swift */,
+			);
+			path = OpenFile;
+			sourceTree = "<group>";
+		};
 		E9D17E28227576FB0065392F = {
 			isa = PBXGroup;
 			children = (
+				E976C3DD2276A07500208754 /* OpenFile */,
 				E9D17E33227576FB0065392F /* FantasticView */,
 				E9D17E32227576FB0065392F /* Products */,
 			);
@@ -57,7 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				E9D17E34227576FB0065392F /* AppDelegate.swift */,
-				E9D17E46227577590065392F /* FantasticView.swift */,
 				E9D17E36227576FB0065392F /* ViewController.swift */,
 				E9D17E38227576FB0065392F /* Main.storyboard */,
 				E9D17E3B227576FC0065392F /* Assets.xcassets */,
